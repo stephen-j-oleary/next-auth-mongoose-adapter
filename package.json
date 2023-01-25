@@ -6,7 +6,6 @@
   "files": ["build"],
   "scripts": {
     "build": "tsc -d -p . --outDir ./build",
-    "prepare": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
